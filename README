@@ -1,0 +1,24 @@
+Paul Passiglia
+cs_4280
+P2 Parser
+
+Changed to C++ because of a struggle with C.
+Test programs 3 and 4 are not passing at the moment, should be able to figure it out eventually.
+
+To run program type:
+
+make
+
+then type:
+
+./frontEnd filename.fs
+
+To clean .o files type:
+ 
+make clean
+
+To clean the .exe file type:
+
+make outclean
+
+Filename must have a .fs extension to be parsed.
